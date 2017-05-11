@@ -1,4 +1,4 @@
-## Kevin Paul
+## About me
 
 ### Education
 
@@ -9,3 +9,5 @@ Master of Business Administration (2010)
 Bachelor of Science (2006)
 * University of Maine
 * Major: Business Administration
+
+## Travel
