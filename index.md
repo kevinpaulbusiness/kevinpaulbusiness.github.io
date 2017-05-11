@@ -11,3 +11,7 @@ Bachelor of Science (2006)
 * Major: Business Administration
 
 ## Travel
+
+## Mount Kilimanjaro
+
+![Kevin climbing Mount Kilimanjaro](images/kilimanjaro.jpg)
