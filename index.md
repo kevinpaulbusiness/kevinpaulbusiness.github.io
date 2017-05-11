@@ -12,6 +12,6 @@ Bachelor of Science (2006)
 
 ## Travel
 
-## Mount Kilimanjaro
+### Mount Kilimanjaro
 
 ![Kevin climbing Mount Kilimanjaro](images/kilimanjaro.jpg)
