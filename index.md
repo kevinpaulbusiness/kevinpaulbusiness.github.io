@@ -15,3 +15,11 @@ Bachelor of Science (2006)
 ### Mount Kilimanjaro
 
 ![Kevin climbing Mount Kilimanjaro](images/kilimanjaro.jpg)
+
+### Singapore
+
+![Kevin in Singapore](images/singapore.jpg)
+
+### China
+
+![Kevin at the Great Wall](images/china.jpg)
