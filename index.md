@@ -12,6 +12,10 @@ Bachelor of Science (2006)
 
 ## Travel
 
+### Italy
+
+![Kevin at the Coliseum in Italy](images/italy.jpg)
+
 ### Mount Kilimanjaro
 
 ![Kevin climbing Mount Kilimanjaro](images/kilimanjaro.jpg)
@@ -22,4 +26,4 @@ Bachelor of Science (2006)
 
 ### China
 
-![Kevin at the Great Wall](images/china.jpg)
+![Kevin at the Great Wall in China](images/china.jpg)
