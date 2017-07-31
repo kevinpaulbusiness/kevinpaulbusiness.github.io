@@ -1,5 +1,7 @@
 ## About me
 
+[LinkedIn](www.linkedin.com/in/kevin-paul-business)
+
 ### Education
 
 Master of Business Administration (2010)
