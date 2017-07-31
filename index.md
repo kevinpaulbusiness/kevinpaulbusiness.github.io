@@ -1,6 +1,6 @@
 ## About me
 
-[LinkedIn](www.linkedin.com/in/kevin-paul-business)
+[LinkedIn](http://www.linkedin.com/in/kevin-paul-business)
 
 ### Education
 
